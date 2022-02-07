@@ -16,7 +16,7 @@ def calc_pi2o6(val):
             fileo = open("result.txt", "w+")
             fileo.write(str(total))
 
-            break
+            return total
 
 def get_pi(res):
 
@@ -25,4 +25,6 @@ def get_pi(res):
 # calc_pi2o6(999999)
 #1.6449330668467699
 
-print(str(get_pi(calc_pi2o6(1000000000))))
+pisquo6 = calc_pi2o6(100000)
+
+print(f"PI: ~{get_pi(pisquo6)}")
