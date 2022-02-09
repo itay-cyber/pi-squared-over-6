@@ -1,5 +1,7 @@
 # pi-squared-over-6
-Calculating pi based on the famous sum as n goes to infinity of 1/n^2
+Calculating pi based on the famous sum
+
+&sum; <i>1/n<sup>2</sup></i>
 
 To run:
 
