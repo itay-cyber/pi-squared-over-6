@@ -1,7 +1,7 @@
 # pi-squared-over-6
 Calculating pi based on the famous sum
 
-&sum;<i>1/n<sup>2</sup></i> = &Pi<sup>2</sup>/6;
+&sum;<i>1/n<sup>2</sup></i> = &Pi;<sup>2</sup>/6;
 
 To run:
 
